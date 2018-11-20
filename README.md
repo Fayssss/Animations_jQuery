@@ -1,4 +1,4 @@
-#Animations avec jQuery  S8_J2
+#Animations avec jQuery  S8_J2 :smiley: :smiley: :smiley: :smiley: :smiley: :smiley:
 
 Faire des manipulations de DOMs avec jQuery :
 
@@ -21,7 +21,7 @@ créer la base de donnée avec
 
 `rails db:create` 
 
-*faire les migrations avec 
+faire les migrations avec 
 
 `rails db:migrate *seeder`
 

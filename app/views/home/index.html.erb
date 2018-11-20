@@ -31,3 +31,21 @@
     <% end %>
   </div>
 </div>
+
+ <div id= "dots" class="d-flex justify-content-center">
+      <% @tasks.each do |task|  %>
+        <span class="dot" id='<%= task.id %>'></span>
+      <% end %>
+    </div>
+    <br/>
+    
+    <div class="d-flex justify-content-center">
+    <div class="col-3 d-flex justify-content-between">
+      <div class="appButton" id="previous">&#10094;</div>
+      <div class="appButton" id="next">&#10095;</div>
+    </div>
+    </div>
+    <br/>
+  </div>
+  
+</div>

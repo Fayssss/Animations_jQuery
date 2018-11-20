@@ -1,25 +1,36 @@
-# README
+#Animations avec jQuery  S8_J2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Faire des manipulations de DOMs avec jQuery :
 
-Things you may want to cover:
+Enoncé : Puisque tout le monde s'amuse à employer le mot startup pour toute entreprise ayant un site internet, nous allons disrupter un secteur très populaire, celui des listes. Voici le pitch (faut pas trop le dire à tout le monde, j'ai pas trop envie qu'on nous vole l'idée) : c'est une app où les gens pourront créer des listes de tâches, et assigner des petites tâches : par exemple :
 
-* Ruby version
+Conquérir le monde :
 
-* System dependencies
+1 : Faire THP
+2: ???
+3: Profit
 
-* Configuration
+Avant de lever des millions, il nous faut un site internet. Ce sera le projet du jour.
+Pour le tester
 
-* Database creation
+En local: 
 
-* Database initialization
+`bundle install` 
 
-* How to run the test suite
+créer la base de donnée avec 
 
-* Services (job queues, cache servers, search engines, etc.)
+`rails db:create` 
 
-* Deployment instructions
+*faire les migrations avec 
 
-* ...
-# Animations_jQuery
+`rails db:migrate *seeder`
+
+la page avec 
+
+`rails db:seed`
+
+
+
+ le slack @Fays
+
+end
